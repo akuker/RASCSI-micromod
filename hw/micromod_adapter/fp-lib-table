@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "MicroMod_ATP_CarrierBoard")(type "KiCad")(uri "$(KIPRJMOD)/MicroMod_ATP_CarrierBoard.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/SamacSys_Parts.pretty")(options "")(descr ""))
 )
